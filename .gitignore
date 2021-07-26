@@ -1,0 +1,5 @@
+**__pycache__
+.venv/
+.vscode
+venv
+wardrobe.db
